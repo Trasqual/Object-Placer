@@ -7,6 +7,6 @@ You can easily add or remove item type groups such as obstacles and collectables
 
 There is also a built-in "Undo" functionality so you can easily ctrl/cmd-z to undo your item placements.
 
-If you just want to use the simple object placement tool with out the path functionalities, you can simple delete the path related code from the ObjectPlacer.cs file.
+If you just want to use the simple object placement tool without the path functionalities, you can simple delete the path related code from the ObjectPlacer.cs file.
 
 ![PathCompatibleObjectPlacer](https://user-images.githubusercontent.com/59961702/162591749-d2deb1fb-6ddb-4719-8ae1-a153b0d10c1a.PNG)
