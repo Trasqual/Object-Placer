@@ -5,6 +5,6 @@ PathCompatible Object Placer is a Unity custom editor tool that I have created t
 
 You can easily add or remove item type groups such as obstacles and collectables, you can chose which items you want to place and each item group is saved as a scriptable object so you don't lose your settings when you close and re-open your project.
 
-There is also built-in "Undo" functionality so you can easily ctrl/cmd-z to undo your item placements.
+There is also a built-in "Undo" functionality so you can easily ctrl/cmd-z to undo your item placements.
 
 ![PathCompatibleObjectPlacer](https://user-images.githubusercontent.com/59961702/162591749-d2deb1fb-6ddb-4719-8ae1-a153b0d10c1a.PNG)
